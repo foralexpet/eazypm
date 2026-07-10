@@ -2,7 +2,7 @@
   "name": "eazypm",
   "version": "1.0.1",
   "description": "Easy and safe dependency reinstaller, and migrator for npm, pnpm, yarn, and bun modules with Aikido's safe-chain.",
-  "author": "nycalexander <https://github.com/nycalexander>",
+  "author": "Alexander <https://github.com/foralexpet>",
   "license": "MIT",
   "type": "module",
   "bin": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nycalexander/eazypm.git"
+    "url": "git+https://github.com/foralexpet/eazypm.git"
   },
   "keywords": [
     "npm",
@@ -37,5 +37,5 @@
     "eazypm",
     "easy"
   ],
-  "homepage": "https://github.com/nycalexander/eazypm#readme"
+  "homepage": "https://github.com/foralexpet/eazypm#readme"
 }
