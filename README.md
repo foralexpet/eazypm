@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/npm/l/eazypm?style=flat-square&labelColor=black&color=white)
 ![Node Version](https://img.shields.io/node/v/eazypm?style=flat-square&labelColor=black&color=white)
 ![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/eazypm?style=flat-square&labelColor=black&color=white)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/nycalexander/eazypm?style=flat-square&labelColor=black&color=white)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/foralexpet/eazypm?style=flat-square&labelColor=black&color=white)
 ![NPM Last Update](https://img.shields.io/npm/last-update/eazypm?style=flat-square&labelColor=black&color=white)
 
 Easy and safe dependency reinstaller and package manager mover for npm, pnpm, yarn, and bun with Aikido's [safe-chain](https://github.com/AikidoSec/safe-chain).
